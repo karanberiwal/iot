@@ -2,7 +2,7 @@ package com.philips.iothub.inventoryservice;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication(scanBasePackages = { "com.philips.iothub" })
+@SpringBootApplication(scanBasePackages = { "com.philips.iothub1223" })
 public class IothubInventoryserviceApplication {
 
 	public static void main(String[] args) {
